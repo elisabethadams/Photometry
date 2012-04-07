@@ -1,0 +1,4 @@
+How to turn raw images into transit light curves in five easy python scripts
+(using pyraf/IRAF for the heavy lifting).
+
+This code was tested on undergraduates.
